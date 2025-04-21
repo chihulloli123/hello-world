@@ -9,4 +9,4 @@ BS
 in
 CS
 fin
-chi pisa 
+chi pisa 🫶🏽
