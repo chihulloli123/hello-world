@@ -1,9 +1,9 @@
 # hello-world
-wordds
+words
 things 
 and
 stuff
-AP
+APG
 more words
 BS
 in
